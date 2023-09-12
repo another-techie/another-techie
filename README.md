@@ -12,6 +12,8 @@ Copies of my diplomas and certifications are available upon request or on [Linke
 08/16/23: #695 -> #596 globally 
 
 08/24/23: #596 -> #573 globally
+
+09/12/23: #573 -> #541 globally
 ![Alt text](image.png)
 
 ## HTB Academy
